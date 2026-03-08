@@ -4,6 +4,10 @@ FitMood Tracker, React + Vite ile geliştirilmiş kişisel bir sağlık takip uy
 Kullanıcı günlük olarak kilo, kalori, ruh hali ve not bilgisini kaydedebilir.
 Tüm veriler tarayıcıda `localStorage` üzerinde saklanır (backend yok).
 
+## Ekran Görüntüsü
+
+![FitMood Tracker uygulama ekran görüntüsü](./app.png)
+
 ## Özellikler
 
 - Yeni sağlık kaydı ekleme
